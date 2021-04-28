@@ -13,4 +13,4 @@ by [Mounir Hanafi](https://mounirhanafi.com).
 * ### Twitter : [@mounirhnf](https://twitter.com/MounirHnf)
 
 # Licence
-[MIT](https://github.com/mounir-hanafi/01.contractible-sidebar/tree/main/LICENCE.md) Copyright (c) 2021 [Mounir Hanafi](https://mounirhanafi.com)
+[MIT](https://github.com/mounir-hanafi/01.contractible-sidebar/tree/main/LICENSE.md) Copyright (c) 2021 [Mounir Hanafi](https://mounirhanafi.com)
